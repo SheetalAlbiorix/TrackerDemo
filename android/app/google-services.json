@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "305143394706",
+    "firebase_url": "https://social-card-3edd1.firebaseio.com",
+    "project_id": "social-card-3edd1",
+    "storage_bucket": "social-card-3edd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:305143394706:android:f8ec8c5138cdbc4476514b",
+        "android_client_info": {
+          "package_name": "com.tap_d"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "305143394706-nn1ttivu5fsfjs8i3rt0gliqvfc3boua.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tap_d",
+            "certificate_hash": "fc172fd078f4b6936248934f4e49db210f49b824"
+          }
+        },
+        {
+          "client_id": "305143394706-doaocnb2deir04664k3d8si76aa4u3gi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAqs5qv_iv3JHx5uZQq1o6Pay6iNOeT5g0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "305143394706-doaocnb2deir04664k3d8si76aa4u3gi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>305143394706-7duk2eacm4493ji7b26gl1ib7og52at4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.305143394706-7duk2eacm4493ji7b26gl1ib7og52at4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>305143394706-nn1ttivu5fsfjs8i3rt0gliqvfc3boua.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDOQ2D8zkQAFCWWxDdh61797BqwpwDBlnw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>305143394706</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tapd</string>
+	<key>PROJECT_ID</key>
+	<string>social-card-3edd1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>social-card-3edd1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:305143394706:ios:ce42bd15cd329ea476514b</string>
+	<key>DATABASE_URL</key>
+	<string>https://social-card-3edd1.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Social Card</string>
+    <string name="facebook_app_id">406635347347052</string>
+    <string name="fb_login_protocol_scheme">fb406635347347052</string>
+    <string name="google_key">AIzaSyDtf4T8D3xDAleBOO2OC6UVF8UTdMZ9nZA</string>
+</resources>
